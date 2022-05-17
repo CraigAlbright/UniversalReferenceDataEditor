@@ -138,7 +138,7 @@ namespace UniversalReferenceDataEditor
             barHeaderItem1.Caption = Resources.PreperatingDataForm1;
 
             var resultText = Resources.VersionString + string.Format(Resources.RunReturnedRowsInMilliseconds,
-                                string.Concat( _currentDatabase ,"/", selectedText), gridView1.RowCount, sw.ElapsedMilliseconds);
+                                string.Concat( _currentDatabase ,"/", selectedText), RowCount, sw.ElapsedMilliseconds);
 
             if (InvokeRequired)
                 BeginInvoke((Action) (() =>
@@ -470,7 +470,8 @@ namespace UniversalReferenceDataEditor
                     return;
                 _currentDatabase = _dbSelector.DatabaseName;
             }
-
+            tableDataGrid.DataBindings.Clear();
+            gridView1.Columns.Clear();
             var dt = new DataTable();
             var localeX = (Location.X + Width / 2);
             var localeY = (Location.Y + Height / 2);
