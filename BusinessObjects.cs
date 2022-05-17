@@ -63,8 +63,8 @@ namespace UniversalReferenceDataEditor {
         }
         void TreeList.IVirtualTreeListData.VirtualTreeGetCellValue(VirtualTreeGetCellValueInfo info) {
             var obj = info.Node as Datatable;
-            switch(info.Column.Caption) {
-                case "Name":
+            switch(info.Column.Name) {
+                case "colName":
                     info.CellData = obj.Name;
                     break;
             }

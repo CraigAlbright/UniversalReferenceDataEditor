@@ -48,3 +48,833 @@ C:\Visual Studio Projects\UniversalReferenceDataEditor\UniversalReferenceDataEdi
 C:\Visual Studio Projects\UniversalReferenceDataEditor\UniversalReferenceDataEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
 C:\Visual Studio Projects\UniversalReferenceDataEditor\UniversalReferenceDataEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
 C:\Visual Studio Projects\UniversalReferenceDataEditor\UniversalReferenceDataEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.Form1.resources
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.Properties.Resources.resources
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.csproj.GenerateResource.cache
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.csproj.CoreCompileInputs.cache
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\UniversalReferenceDataEditor.exe.config
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\UniversalReferenceDataEditor.exe
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\UniversalReferenceDataEditor.pdb
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Moq.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\NHibernate.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\System.Web.Mvc.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\System.Web.Http.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Owin.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\System.Spatial.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\System.Web.Razor.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\System.Web.WebPages.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Autofac.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\AWSSDK.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\CraigLib.pdb
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\CraigLib.Cloud.pdb
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\CraigLib.Data.pdb
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\CraigLib.File.pdb
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\CraigLib.Sound.pdb
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\CraigLib.TimeAndDate.pdb
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.csprojAssemblyReference.cache
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.csproj.CopyComplete
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.exe
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.pdb
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.exe.licenses
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraRichEdit.v18.2.Extensions.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraRichEdit.v18.2.Extensions.xml
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.DatabaseSelector.resources
+C:\Users\CraigAlbright\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.QueryRunningForm.resources
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\UniversalReferenceDataEditor.exe.config
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\UniversalReferenceDataEditor.exe
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\UniversalReferenceDataEditor.pdb
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Charts.Designer.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPdfViewer.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.CodeCompletion.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Service.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Web.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Web.WebForms.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraSpreadsheet.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Charts.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Core.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Docking.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Grid.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Grid.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Mvvm.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.PropertyGrid.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Ribbon.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Pdf.v19.2.Drawing.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Web.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Web.Resources.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Spreadsheet.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Printing.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Layout.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.2.Core.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.LayoutControl.v19.2.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Charts.Designer.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPdfViewer.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Service.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Web.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Web.WebForms.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraSpreadsheet.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Charts.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Core.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Docking.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Grid.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Grid.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Mvvm.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.PropertyGrid.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Ribbon.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Pdf.v19.2.Drawing.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Web.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Spreadsheet.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Printing.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Layout.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.2.Core.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.LayoutControl.v19.2.xml
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Charts.Designer.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Charts.Designer.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Charts.Designer.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Charts.Designer.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraReports.v19.2.Web.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraReports.v19.2.Web.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraReports.v19.2.Web.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraReports.v19.2.Web.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Charts.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Charts.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Charts.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Charts.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.PropertyGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.PropertyGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.PropertyGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.PropertyGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Web.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Web.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Web.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Web.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.csprojAssemblyReference.cache
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.exe.config
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.DatabaseSelector.resources
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.Form1.resources
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.Properties.Resources.resources
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.QueryRunningForm.resources
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.csproj.GenerateResource.cache
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.exe.licenses
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.csproj.CopyComplete
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.exe
+C:\Users\craig.albright\OneDrive\Documents\Visual Studio 2017\Projects\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.pdb
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\UniversalReferenceDataEditor.exe.config
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\UniversalReferenceDataEditor.exe
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\UniversalReferenceDataEditor.pdb
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Charts.Designer.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPdfViewer.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.CodeCompletion.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Service.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Web.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Web.WebForms.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraSpellChecker.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraSpreadsheet.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Charts.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Core.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Docking.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Grid.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Grid.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Mvvm.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.PropertyGrid.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Ribbon.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Pdf.v19.2.Drawing.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Web.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Web.Resources.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.SpellChecker.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Spreadsheet.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Printing.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Layout.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.2.Core.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.LayoutControl.v19.2.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Charts.Designer.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPdfViewer.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.CodeCompletion.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Service.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Web.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraReports.v19.2.Web.WebForms.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraSpellChecker.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraSpreadsheet.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\System.Windows.Interactivity.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Charts.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Core.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Docking.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Grid.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Grid.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Mvvm.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.PropertyGrid.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Ribbon.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Pdf.v19.2.Drawing.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Web.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.SpellChecker.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Spreadsheet.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Printing.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.Layout.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.2.Core.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\DevExpress.Xpf.LayoutControl.v19.2.xml
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Charts.Designer.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Charts.Designer.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Charts.Designer.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Charts.Designer.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraReports.v19.2.Web.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraReports.v19.2.Web.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraReports.v19.2.Web.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraReports.v19.2.Web.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraSpellChecker.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraSpellChecker.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraSpellChecker.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraSpellChecker.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraSpreadsheet.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Charts.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Charts.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Charts.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Charts.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Docking.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Grid.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.PropertyGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.PropertyGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.PropertyGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.PropertyGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Web.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Web.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Web.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Web.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Web.Resources.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Spreadsheet.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.Printing.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v19.2.Core.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\de\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\es\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v19.2.resources.dll
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.csproj.AssemblyReference.cache
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.exe.config
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.DatabaseSelector.resources
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.Form1.resources
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.Properties.Resources.resources
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.QueryRunningForm.resources
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.csproj.GenerateResource.cache
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.exe.licenses
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.csproj.CoreCompileInputs.cache
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.exe
+C:\Dev\UniversalReferenceDataEditor\obj\Debug\UniversalReferenceDataEditor.pdb
